@@ -1,1 +1,1 @@
-https://github.com/YangXiaochun-admin/-mobile-wheel.git
+https://yangxiaochun-admin.github.io/my-mobile-wheel/mobileWheel.html
